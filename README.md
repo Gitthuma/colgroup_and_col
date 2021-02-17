@@ -18,4 +18,14 @@ Using colgroup and col in a table
 
 8. The last two days are free days, so just set them to no background color but a set width; the value for the style attribute is width: 42px;
 
+Active learning: Adding a caption
+
+Let's try this out, revisiting an example we first met in the previous article.
+
+1. Open up your language teacher's school timetable from the end of HTML Table Basics, or make a local copy of our timetable-fixed.html file.
+
+2. Add a suitable caption for the table.
+
+3. Save your code and open it in a browser to see what it looks like.
+
 Live web: https://gitthuma.github.io/colgroup_and_col/
